@@ -69,3 +69,21 @@
     />
   </a>
 </p>
+
+<!-- GITHUB ACTIVITY -->
+
+<p align="center">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=chkarthikdev&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&rank_icon=github"
+    height="180"
+    alt="Karthik Sai CH GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=chkarthikdev&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa"
+    height="180"
+    alt="Top Languages"
+  />
+
+</p>
