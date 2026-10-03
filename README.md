@@ -70,14 +70,14 @@
   </a>
 </p>
 
-<!-- GITHUB ACTIVITY -->
+## 📊 GITHUB_ACTIVITY.EXE
 
 <p align="center">
 
   <img
     src="https://github-readme-stats.vercel.app/api?username=chkarthikdev&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&rank_icon=github"
     height="180"
-    alt="Karthik Sai CH GitHub Stats"
+    alt="GitHub Stats"
   />
 
   <img
@@ -86,4 +86,11 @@
     alt="Top Languages"
   />
 
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=chkarthikdev&theme=dark&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"
+    alt="GitHub Streak"
+  />
 </p>
