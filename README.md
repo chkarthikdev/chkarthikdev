@@ -48,3 +48,43 @@
     alt="About Me - Karthik Sai CH"
   />
 </p>
+
+## 🛠️ Tech Stack
+
+### 🤖 AI Coding Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Google%20Gemini-000000?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white" />
+</p>
+
+### ⚛️ Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,html,css,tailwind,vite" />
+</p>
+
+### ✨ UI, State & Validation
+
+`Framer Motion` · `Zustand` · `Zod`
+
+### 🔌 API
+
+`GraphQL`
+
+### ⚙️ Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### 🧪 Testing
+
+`Vitest`
+
+### 🚀 Tools, DevOps & Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=github,vercel,render,npm,docker,aws" />
+</p>
