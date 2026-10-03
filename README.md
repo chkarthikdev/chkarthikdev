@@ -58,3 +58,14 @@
     alt="Tech Stack - Karthik Sai CH"
   />
 </p>
+
+<!-- FEATURED PROJECT -->
+<p align="center">
+  <a href="https://zorvynassignmentdashboard.vercel.app/" target="_blank">
+    <img
+      src="https://res.cloudinary.com/tw8rfkja/image/upload/v1791023814/expense-dashboard.png"
+      width="100%"
+      alt="Expense Dashboard — Featured Project"
+    />
+  </a>
+</p>
