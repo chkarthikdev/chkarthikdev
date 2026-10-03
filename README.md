@@ -39,3 +39,12 @@
     />
   </a>
 </p>
+
+<!-- ABOUT ME -->
+<p align="center">
+  <img
+    src="https://res.cloudinary.com/tw8rfkja/image/upload/v1791022201/about-me.png"
+    width="100%"
+    alt="About Me - Karthik Sai CH"
+  />
+</p>
